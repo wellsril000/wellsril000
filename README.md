@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am currenty studying at Brigham Young University in the Information Systems Program in the Marriot School of Business.
+I'm passionate about Data analytics. Especially when using information to make data-driven decisions to improve business. 
+Outside of school I love spending time outside. I espeically love rock climbing, mountain biking, and skiing. 
+I am looking for internships and job opportunities in tech where I can put my skills and knowledge to practice in real world application. 
+You can reach me on linkedin at: www.linkedin.com/in/riley-wells-
+
 <!--
 **wellsril000/wellsril000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
